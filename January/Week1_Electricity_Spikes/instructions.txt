@@ -1,0 +1,3 @@
+to run streamlit dashboard 
+cd January\Week1_Electricity_Spikes\dashboard
+streamlit run app.py
